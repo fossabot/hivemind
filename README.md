@@ -1,4 +1,6 @@
 # Hivemind turns your Tensorflow project into an API
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkyr7%2Fhivemind.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkyr7%2Fhivemind?ref=badge_shield)
+
 
 Collects data, trains, serves and distributes your Tensorflow models via REST API.
 
@@ -19,3 +21,6 @@ Collects data, trains, serves and distributes your Tensorflow models via REST AP
 ## License
 
 [Apache License 2.0](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkyr7%2Fhivemind.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkyr7%2Fhivemind?ref=badge_large)
